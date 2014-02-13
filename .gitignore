@@ -1,3 +1,5 @@
+# Standard .gitignore from Github for ANSI-C projects. 140213r
+
 # Object files
 *.o
 *.ko
